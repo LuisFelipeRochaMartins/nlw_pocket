@@ -1,5 +1,4 @@
 import fastify from 'fastify'
-import z from 'zod'
 import {
   serializerCompiler,
   validatorCompiler,
